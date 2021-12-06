@@ -29,8 +29,8 @@ body {
   position: absolute;
   top: 200px;
   left: calc(50% - (75px/2));
-  background: #FFD700;
-  box-shadow: 5px 5px 80px gold, 5px -5px 80px gold, -5px 5px 80px gold, -5px -5px 80px gold;
+  background: blue;
+  box-shadow: 5px 5px 80px blue, 5px -5px 80px blue, -5px 5px 80px blue, -5px -5px 80px blue;
   cursor: pointer;
 }
 .bulb::before {
